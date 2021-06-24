@@ -1,0 +1,6 @@
+.tableList thead th {
+  font-weight: 400;
+}
+.tableList thead th i, .tableList thead th span  {
+  padding-right: 5px;
+}
